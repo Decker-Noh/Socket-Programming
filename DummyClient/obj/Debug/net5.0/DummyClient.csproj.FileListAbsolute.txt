@@ -1,0 +1,16 @@
+C:\Users\soong\source\repos\Server\DummyClient\bin\Debug\net5.0\DummyClient.exe
+C:\Users\soong\source\repos\Server\DummyClient\bin\Debug\net5.0\DummyClient.deps.json
+C:\Users\soong\source\repos\Server\DummyClient\bin\Debug\net5.0\DummyClient.runtimeconfig.json
+C:\Users\soong\source\repos\Server\DummyClient\bin\Debug\net5.0\DummyClient.runtimeconfig.dev.json
+C:\Users\soong\source\repos\Server\DummyClient\bin\Debug\net5.0\DummyClient.dll
+C:\Users\soong\source\repos\Server\DummyClient\bin\Debug\net5.0\ref\DummyClient.dll
+C:\Users\soong\source\repos\Server\DummyClient\bin\Debug\net5.0\DummyClient.pdb
+C:\Users\soong\source\repos\Server\DummyClient\obj\Debug\net5.0\DummyClient.csprojAssemblyReference.cache
+C:\Users\soong\source\repos\Server\DummyClient\obj\Debug\net5.0\DummyClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soong\source\repos\Server\DummyClient\obj\Debug\net5.0\DummyClient.AssemblyInfoInputs.cache
+C:\Users\soong\source\repos\Server\DummyClient\obj\Debug\net5.0\DummyClient.AssemblyInfo.cs
+C:\Users\soong\source\repos\Server\DummyClient\obj\Debug\net5.0\DummyClient.csproj.CoreCompileInputs.cache
+C:\Users\soong\source\repos\Server\DummyClient\obj\Debug\net5.0\DummyClient.dll
+C:\Users\soong\source\repos\Server\DummyClient\obj\Debug\net5.0\ref\DummyClient.dll
+C:\Users\soong\source\repos\Server\DummyClient\obj\Debug\net5.0\DummyClient.pdb
+C:\Users\soong\source\repos\Server\DummyClient\obj\Debug\net5.0\DummyClient.genruntimeconfig.cache

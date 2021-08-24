@@ -1,0 +1,16 @@
+C:\Users\soong\source\repos\Server\ServerCore\bin\x64\Release\net5.0\ServerCore.exe
+C:\Users\soong\source\repos\Server\ServerCore\bin\x64\Release\net5.0\ServerCore.deps.json
+C:\Users\soong\source\repos\Server\ServerCore\bin\x64\Release\net5.0\ServerCore.runtimeconfig.json
+C:\Users\soong\source\repos\Server\ServerCore\bin\x64\Release\net5.0\ServerCore.runtimeconfig.dev.json
+C:\Users\soong\source\repos\Server\ServerCore\bin\x64\Release\net5.0\ServerCore.dll
+C:\Users\soong\source\repos\Server\ServerCore\bin\x64\Release\net5.0\ref\ServerCore.dll
+C:\Users\soong\source\repos\Server\ServerCore\bin\x64\Release\net5.0\ServerCore.pdb
+C:\Users\soong\source\repos\Server\ServerCore\obj\x64\Release\net5.0\ServerCore.csprojAssemblyReference.cache
+C:\Users\soong\source\repos\Server\ServerCore\obj\x64\Release\net5.0\ServerCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soong\source\repos\Server\ServerCore\obj\x64\Release\net5.0\ServerCore.AssemblyInfoInputs.cache
+C:\Users\soong\source\repos\Server\ServerCore\obj\x64\Release\net5.0\ServerCore.AssemblyInfo.cs
+C:\Users\soong\source\repos\Server\ServerCore\obj\x64\Release\net5.0\ServerCore.csproj.CoreCompileInputs.cache
+C:\Users\soong\source\repos\Server\ServerCore\obj\x64\Release\net5.0\ServerCore.dll
+C:\Users\soong\source\repos\Server\ServerCore\obj\x64\Release\net5.0\ref\ServerCore.dll
+C:\Users\soong\source\repos\Server\ServerCore\obj\x64\Release\net5.0\ServerCore.pdb
+C:\Users\soong\source\repos\Server\ServerCore\obj\x64\Release\net5.0\ServerCore.genruntimeconfig.cache
